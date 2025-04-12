@@ -1,2 +1,2 @@
 # CannaHelper
-Help newbiews growers to start cultive from seed to harverst! &lt;3
+- # Help newbiews growers to start cultive from seed to harverst! &lt;3
